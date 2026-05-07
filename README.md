@@ -1,2 +1,14 @@
 # Planetary-Defenition-by-the-IAU
-An audit of the IAU's rules about planets and what is one. 
+## The Three Rules
+1) It must orbit the Sun.
+   -> The Sun is not the only star in the Universe.
+   -> Even Ganymade or Titan do orbit the Sun, but their orbits are not elliptical. 
+2) It must be nearly round.
+   -> This is a really subjective statement, they could have given a deviation from circularity beyond which it is not round according to them. 
+3) It must be the domiant gravitational force in its path, having cleared away debris or objects of similar size.
+   -> This too, is really subjective. Are asteroids counted? Are moons counted? Many more questions.
+   
+It seems like they wanted to make this as vague as possible to weed out certain planets and not certain others. Not that I care, but I want these rules to be applied  strictly, to see what would happen. This is the aim of the project: to find out what are the 'real' planets, irrespective of human sentiments. 
+   
+
+ 
